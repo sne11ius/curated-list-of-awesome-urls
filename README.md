@@ -1,2 +1,31 @@
-# curated-list-of-awsome-urls
+# Curated list of awesome urls
 This is a list of awsome urls!
+
+Trigger warning: if 
+
+  - [oh.h.ai](oh.h.ai)
+  - [kar.af](kar.af)
+  - [trans.am](trans.am)
+  - [kimjongunlooking.at](kimjongunlooking.at)
+  - [jenkins.ci](jenkins.ci)
+  - [hmhmhm.hm](hmhmhm.hm)
+  - [1000.kg](1000.kg)
+  - [readme.md](readme.md)
+  - [th.ug](th.ug)
+  - [khan.academy](khan.academy)
+  - [notyourpersonal.army](notyourpersonal.army)
+  - [moar.beer](moar.beer)
+  - [fizz.buzz](fizz.buzz)
+  - [sin.city](sin.city)
+  - [fight.club](fight.club)
+  - [vegan.energy](vegan.energy)
+  - [nys.exchange](nys.exchange)
+  - [total.fail](total.fail)
+  - [martymc.fly](martymc.fly)
+  - [kung.foo](kung.foo)
+  - [through.glass](through.glass)
+  - [shutupandtakemy.money](shutupandtakemy.money)
+  - [go.pro](go.pro)
+  - [rms.sexy](rms.sexy)
+  - [thedaily.wtf](thedaily.wtf)
+  - [daily.cat](daily.cat)
