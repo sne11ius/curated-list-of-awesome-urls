@@ -1,8 +1,6 @@
 # Curated list of awesome urls
 This is a list of awsome urls!
 
-Trigger warning: if 
-
   - [oh.h.ai](http://oh.h.ai)
   - [kar.af](http://kar.af)
   - [trans.am](http://trans.am)
