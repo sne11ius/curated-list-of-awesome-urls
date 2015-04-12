@@ -27,5 +27,5 @@ This is a list of awsome urls!
   - [rms.sexy](http://rms.sexy)
   - [thedaily.wtf](http://thedaily.wtf)
   - [daily.cat](http://daily.cat)
-  - [tripple.com](http://trippple.com)
+  - [trippple.com](http://trippple.com)
   - [joele.taxi](http://joele.taxi)
