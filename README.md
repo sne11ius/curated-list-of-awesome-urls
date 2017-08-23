@@ -28,4 +28,5 @@ This is a list of awsome urls!
   - [thedaily.wtf](http://thedaily.wtf)
   - [daily.cat](http://daily.cat)
   - [trippple.com](http://trippple.com)
-  - [joele.taxi](http://joele.taxi)
+  - [joele.taxi](http://joele.taxi)
+  - [was.is.nu](http://was.is.nu)
